@@ -1,4 +1,4 @@
-
+## Super Simple Stock ##
 
 **1. Solution**
 
